@@ -10,6 +10,8 @@
  */
 public class rumahaksi {
     public static void main(String[] args) {
-        
+       rumah rumahku = new rumah();
+       rumah rumahogib = new rumah();
+       rumah rumahfathur = new rumah();
     }
 }
