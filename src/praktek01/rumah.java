@@ -10,5 +10,10 @@ package praktek01;
  * @author eddy
  */
 public class rumah {
+    String jumlahpintu;
+    String jumlahjendela;
+    String jumlahkamar;
+    String warnarumah;
+    String tiperumah;
     
 }
