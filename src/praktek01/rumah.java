@@ -16,4 +16,12 @@ public class rumah {
     String warnarumah;
     String tiperumah;
     
+void inforumah(){
+    system.out.println("jumlah              : "+jumlahpintu);
+    system.out.println("jumlah jendela      : "+jumlahjendela);
+    system.out.println("jumlah kamar        : "+jumlahkamar);
+    system.out.println("warna rumah         : "+warnarumah);
+    system.out.println("tipe rumah          : "+tiperumah);
+    
+}
 }
